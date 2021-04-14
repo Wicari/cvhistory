@@ -4,7 +4,7 @@
 The idea behind this is to build a chronological picture of how we all came together in our current form 
 
 
-### EverQuest 1999
+## EverQuest 1999
 - Server: Innorruk
 #### Guilds
 - **Shadow Stalkers of Norath**
@@ -41,7 +41,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 - **Hallowed Crusaders** - 2001 (_Hallowed Crusaders Alliance_)
   - Katrinah
 		
-### Lineage 2  - 2003
+## Lineage 2  - 2003
 - Server: ?????
 #### Guilds
 - **Sweep The Leg**
@@ -50,7 +50,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Hitu
   - Geena
 
-### World of Warcraft - 2004
+## World of Warcraft - 2004
 - Server: Sargeras (Horde)
 #### Guilds
 - Havoc
@@ -63,7 +63,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Xirek
   - Hitu
 
-### World of Warcraft - The Burning Crusade - 2007
+## World of Warcraft - The Burning Crusade - 2007
 - Server: Arygos-US (Alliance)
 #### Guilds
 - Habitual
