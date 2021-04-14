@@ -1,50 +1,48 @@
 
-# CV Community History WIKI!
+## CV Community History WIKI!
 
 The idea behind this is to build a chronological picture of how we all came together in our current form 
 
 
-### EverQuest - 1999 - Innorruk Server
+### EverQuest 1999
+- Server: Innorruk
 
-**Oakmers Minnions**
+#### Guilds
+- Shadow Stalkers of Norath
+- Legends of the Realm (Legends)
+ 	- Pidan (Larry Kreier)
+  - Eildadare (Susan Matuzek)
+  - Oakmer (Roy Haehnal)
+  - Kharrak (David Griffan)
+  - Steffan (Brett Cutshall)
+  - Denithor (Rob Haehnel)
 
-    Pidan (Larry Kreier)
-    Eildadare (Susan Matuzek)
-    Oakmer (Roy Haehnal)
-    Kharrak (David Griffan)
-    Steffan (Brett Cutshall)
-    Denithor (Rob Haehnel)
+## Dark Age of Camelot - 2001
+- Server: Morgan Le Fay server
 
-
-Guilds Joined Joined  
-	Shadow Stalkers of Norath
-	Legends of the Realm (Legends)
-
-
-
-### Dark Age of Camelot - 2001
-   - Morgan Le Fay server
-	Seige Perilous
-		Wicari
-		Geena (Eildadare)
-		Steff
-		Oakmer
-		Denithor
-		Kharrak
-		Thewen (Xirek)
-
-	Hallowed Crusaders (Hallowed Crusaders Alliance)
+#### Guilds
+- Seige Perilous - 2001 (Hallowed Crusaders Alliance)
+  - Wicari
+  - Geena (Eildadare)
+  - Steff
+  - Oakmer
+  - Denithor
+  - Kharrak
+  - Thewen (Xirek)
+- Illusions of Shadows - 2002 (IoS/Dark Omen Alliance)
+  - Wicari
+  - Geena (Eildadare)
+  - Steff
+  - Oakmer
+  - Denithor
+  - Kharrak
+  - Thewen (Xirek)
+  - Mericlya
+  - Hitu
+  - Mosad
+- Hallowed Crusaders - 2001 (Hallowed Crusaders Alliance)
 		Katrinah
 		
-	Illusions of Shadows  (IoS/Dark Omen Alliance)
-		Wicari
-		Geena
-		Oakmer
-		Denithor
-		Mericlya
-		Hitu
-		Mosad
-		Thewen (Xirek)
 
 ### Lineage 2  - 2003
 		Wicari
