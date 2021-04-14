@@ -6,10 +6,9 @@ The idea behind this is to build a chronological picture of how we all came toge
 
 ### EverQuest 1999
 - Server: Innorruk
-
 #### Guilds
-- Shadow Stalkers of Norath
-- Legends of the Realm (Legends)
+- **Shadow Stalkers of Norath**
+- **Legends of the Realm** (_**Legends**_)
  	- Pidan (Larry Kreier)
   - Eildadare (Susan Matuzek)
   - Oakmer (Roy Haehnal)
@@ -18,10 +17,9 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Denithor (Rob Haehnel)
 
 ## Dark Age of Camelot - 2001
-- Server: Morgan Le Fay server
-
+- Server: Morgan Le Faye
 #### Guilds
-- Seige Perilous - 2001 (Hallowed Crusaders Alliance)
+- **Seige Perilous** - 2001 (_Hallowed Crusaders Alliance_)
   - Wicari
   - Geena (Eildadare)
   - Steff
@@ -29,7 +27,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Denithor
   - Kharrak
   - Thewen (Xirek)
-- Illusions of Shadows - 2002 (IoS/Dark Omen Alliance)
+- **Illusions of Shadows** - 2002 (_IoS/Dark Omen Alliance_)
   - Wicari
   - Geena (Eildadare)
   - Steff
@@ -40,43 +38,54 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Mericlya
   - Hitu
   - Mosad
-- Hallowed Crusaders - 2001 (Hallowed Crusaders Alliance)
-		Katrinah
+- **Hallowed Crusaders** - 2001 (_Hallowed Crusaders Alliance_)
+  - Katrinah
 		
-
 ### Lineage 2  - 2003
-		Wicari
+- Server: ?????
+#### Guilds
+- **Sweep The Leg**
+  - Wicari
+  - Xirek
+  - Hitu
+  - Geena
 
 ### World of Warcraft - 2004
-	Havoc - Sargeras-US (Horde)
-		Buto
-		Froggie
-		Wicari
-		Elidy
-		Oakmer
-		Denithor
-		Xirek
+- Server: Sargeras (Horde)
+#### Guilds
+- Havoc
+  - Buto
+  - Froggie
+  - Wicari
+  - Elidy
+  - Oakmer
+  - Denithor
+  - Xirek
+  - Hitu
 
 ### World of Warcraft - The Burning Crusade - 2007
-	Habitual - Arygos-US (Alliance)
-		Buto
-		Froggie
-		Wicari
-		Eildy
-		Denithor
-		Zikomo
-		Tarror
-		Katrinah
-		Zushiba / Tenshu
-		Ath?
-		Aina?
-		Hitu
-		Vorroth
-		Jannassa
-		TC
-		Nilrum
-		Nurse
-		Delphi
+- Server: Arygos-US (Alliance)
+#### Guilds
+- Habitual
+  - Buto
+  - Froggie
+  - Wicari
+  - Eildy
+  - Denithor
+  - Zikomo
+  - Tarror
+  - Katrinah
+  - Zushiba / Tenshu
+  - Ath?
+  - Aina?
+  - Duhu?
+  - Hitu
+  - Vorroth
+  - Jannassa
+  - TC
+  - Nilrum
+  - Nurse
+  - Delphi
 	Vorroths Guild - Habitual Somewhat fell apart post Zik and Wic stepping away. Many members reformed with Vorroth's guild
 		Vorroth, Nurse, Nilrum, Delphi, Jannassa
 
