@@ -171,7 +171,6 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Wicari-hold
 - Cosmic Vomit - Guild Transfer to Kil'Jaeden-US
   - Wicari-hold
-  -
 
 ## World of Warcraft - Warlords of Draenor - 2015
 - Server Kil'Jaeden-US (Horde)
@@ -214,7 +213,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Katrinah
   - Tenshu
 
-### World of Warcraft - Battle for Azoroth - 2018
+## World of Warcraft - Battle for Azoroth - 2018
 - Server Earthen Ring-US (Horde)
 #### Guilds
 - Habitual
@@ -256,7 +255,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Gomer
   - Rusty
 
--Impulse
+- Impulse
   - Bhorris (Wicari)
   - Nahtasha  (Dariellwine)
   - Xirek
