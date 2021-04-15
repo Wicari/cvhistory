@@ -164,98 +164,144 @@ The idea behind this is to build a chronological picture of how we all came toge
     - Geena family members
   - Wicari
   
-### World of Warcraft - Warlords of Draenor - 2014
+## World of Warcraft - Warlords of Draenor - 2014
 - Server: Arygos-US (Alliance)
 #### Guilds
 - Habitual - Guild Transfer to Kil'Jaeden-US (Horde)
-  - Wicari-1
-- Cosmic Vomit - Guild Transfer to Kil'Jaeden-US (Horde)
-  - Wicari-2
+  - Wicari-hold
+- Cosmic Vomit - Guild Transfer to Kil'Jaeden-US
+  - Wicari-hold
   -
 
-### World of Warcraft - Warlords of Draenor - 2015
+## World of Warcraft - Warlords of Draenor - 2015
 - Server Kil'Jaeden-US (Horde)
 #### Guilds
-- Habitual - Guild Transfer to Kil'Jaeden-US (Horde)
-  - Wicari-1
-- Cosmic Vomit - Guild Transfer to Kil'Jaeden-US (Horde)
-  - Wicari-2
+- Habitual 
+  - Wicari-hold
 - Reckconing - World PVP Guild
   - Wicari
   - Daryin
 
-### World of Warcraft - Warlords of Draenor - 2015
+- Server Kil'Jaeden-US (Alliance)
+- Cosmic Vomit
+  - Wicari-hold
+
+## World of Warcraft - Warlords of Draenor - 2015
 - Server Earthen Ring-US (Horde)
 #### Guilds
 - Habitual - Guild Transfer to Earthen Ring-US (Horde)
+  - Wicari-hold
 - Cosmic Vomit - Guild Transfer to Earthen Ring-US (Horde)
+  - Wicari-hold
 - AIE - Earthin Ring-US (Horde)
+  - Wicari
+  - Froggie
+  - Tenshu
+  - Katrina
 
-### World of Warcraft - Legion - 2016
-	Habitual
-	AIE
-		Wicari Alts
-		Cylla
-	Cosmic Vomit
-		Wicari
-		Dariellwine
-	Eclipse
-		Froggie
-		Katrinah
-		Tenshu
+## World of Warcraft - Legion - 2016
+- Server Earthen Ring-US (Horde)
+#### Guilds
+- Habitual
+- AIE - Horde (Earthen Ring)
+  - Wicari
+  - Cylla
+- Cosmic Vomit - Alliance (Dalaran)
+  - Wicari
+  - Dariellwine
+- Eclipse
+  - Froggie
+  - Katrinah
+  - Tenshu
 
 ### World of Warcraft - Battle for Azoroth - 2018
-	Habitual
-	AIE
-		Wicari Alts
-		Cylla
-	Cosmic Vomit
-		Wicari
-		Dariellwine
-	Highly Illogical
-		Froggie
-		Katrinah
-		Tenshu
+- Server Earthen Ring-US (Horde)
+#### Guilds
+- Habitual
+- AIE - Horde
+  - Wicari Alts
+  - Cylla
+- Cosmic Vomit - Alliance
+  - Wicari
+  - Dariellwine
+- Highly Illogical - Horde
+  - Froggie
+  - Katrinah
+  - Tenshu
 
-### World of Warcraft - Classic 
-	Cosmic Vomit - Kromcrush-US
-		Bhorris (Wicari)
-		Nahtasha  (Dariellwine)
-		Xirek
-		Puff
-		Froggie
-		Katrinah
-		Tenshu (Zushiba)
-		Strider
-		Gomer
-		Rusty
+## World of Warcraft - Classic 
+- Server: Kromcrush-US
+#### Guilds
+- Cosmic Vomit
+  - Bhorris (Wicari)
+  - Nahtasha  (Dariellwine)
+  - Xirek
+  - Puff
+  - Froggie
+  - Katrinah
+  - Tenshu (Zushiba)
+  - Strider
+  - Gomer
+  - Rusty
 
-	Habitual?? - Kromcrush-US
-		Bhorris (Wicari)
-		Nahtasha  (Dariellwine)
-		Xirek
-		Puff
-		Katrinah
-		Tenshu (Zushiba)
-		Strider
-		Gomer
-		Rusty
-	
-	Impulse - Kromcrush-US
-		Bhorris (Wicari)
-		Nahtasha
-		Xirek
-		Puff
-		Katrinah
-		Tenshu (Zushiba)
-		Ath
-		Aina
-		Duhu
-	
+- Habitual??
+  - Bhorris (Wicari)
+  - Nahtasha  (Dariellwine)
+  - Xirek
+  - Puff
+  - Froggie
+  - Katrinah
+  - Tenshu (Zushiba)
+  - Strider
+  - Gomer
+  - Rusty
 
-### World of Warcraft - Shadowlands - 2020
-        Cosmic Vomit - Guild Transfer to Eitrigg-US (Alliance)
-	Knights of the Realm - Eitrigg-US
-		Distayne & Co
-		Zushiba & Co
-	Cosmic Vomit - 2021 - Eitrigg-US
+-Impulse
+  - Bhorris (Wicari)
+  - Nahtasha  (Dariellwine)
+  - Xirek
+  - Puff
+  - Froggie
+  - Katrinah
+  - Tenshu (Zushiba)
+  - Ath
+  - Aina
+  - Duhu
+
+## World of Warcraft - Shadowlands - 2020
+- Server: Eitrigg-US (Alliance)
+#### Guilds
+- Cosmic Vomit (2020) - Transfer From Dalaran 
+- Knights of the Realm (2020)
+  - Belac
+  - Distayne
+  - Dust
+  - Deathhimself
+  - Wulama
+  - Aprys
+  - Zushiba
+  - Wicari
+  - Dariellwine
+  - Katrinah
+  - Froggie
+  - Buto
+  - Duhu
+  - Aina
+  - Ath
+
+- Cosmic Vomit (2021)
+  - Distayne
+  - Dust
+  - Deathhimself
+  - Wulama
+  - Aprys
+  - Zushiba
+  - Wicari
+  - Dariellwine
+  - Katrinah
+  - Froggie
+  - Buto
+  - Duhu
+  - Aina
+  - Ath
+  - Rusty
