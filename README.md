@@ -287,6 +287,9 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Duhu
   - Aina
   - Ath
+  - Falentra
+  - Juliana
+  - Reisling
 
 - Cosmic Vomit (2021)
   - Distayne
@@ -303,4 +306,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Duhu
   - Aina
   - Ath
+  - Falentra
+  - Juliana
+  - Reisling
   - Rusty
