@@ -44,7 +44,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## Lineage 2  - 2003
 - Server: ?????
 #### Guilds
-- **Sweep The Leg**
+- **????**
   - Wicari
   - Xirek
   - Hitu
@@ -53,7 +53,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - 2004
 - Server: Sargeras (Horde)
 #### Guilds
-- Havoc
+- **Havoc**
   - Buto
   - Froggie
   - Wicari
@@ -66,7 +66,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - The Burning Crusade - 2007
 - Server: Arygos-US (Alliance)
 #### Guilds
-- Habitual
+- **Habitual**
   - Buto
   - Froggie
   - Wicari
@@ -91,12 +91,12 @@ The idea behind this is to build a chronological picture of how we all came toge
 
 ## World of Warcraft - Wrath of the Lich King - 2008
 #### Guilds 
-- Habitual 
+- **Habitual**
   - Wicari - stopped playing WoW for the next 17 Months due to burn out
 
 ## Age of Connan - 2008
 #### Guilds 
-- ???? 
+- **Sweep The Leg**
   - Buto
   - Wicari
   - Hitu
@@ -104,7 +104,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 
 ## Aion - 2009
 #### Guilds
-- ????
+- **????**
   - Wiciari
   - Buto
   - Hitu
@@ -113,7 +113,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## Warhammer Online: Age of Reckoning - 2009
 - Server: ????
 #### Guilds 
-- ????
+- **????**
   - Wicari
   - Hitu
   - Xirek
@@ -124,13 +124,13 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - Wrath of the Lich King - 2009 (late)
 - Server: Arygos-US (Alliance)
 #### Guilds 
-- Habitual 
+- **Habitual**
   - Wicari - returned to play WoW-WotLK (last patch)
 
 ## World of Warcraft - Cataclysm - 2010
 - Server: Arygos-US (Alliance)
 #### Guilds 
-- Habitual
+- **Habitual**
   - Wicari - restarted Habitual
   - Eildy
   - Froggie
@@ -144,7 +144,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - Mists of Pandaria - 2012
 - Server: Arygos-US (Alliance)
 #### Guilds 
-- Habitual
+- **Habitual**
   - Wicari
   - Eildy
   - Froggie
@@ -155,11 +155,11 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Strider
   - Buto
   - Treefosteel
-- Habitual - Fell Appart after losing key roles 
-- Blood for Blood
+- **Habitual** - Fell Appart after losing key roles 
+- **Blood for Blood**
   - Geena
   - Wicari
-- Cosmic Vomit 
+- **Cosmic Vomit**
   - Geena (aka Eildy)
     - Geena family members
   - Wicari
@@ -167,32 +167,32 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - Warlords of Draenor - 2014
 - Server: Arygos-US (Alliance)
 #### Guilds
-- Habitual - Guild Transfer to Kil'Jaeden-US (Horde)
+- **Habitual** - Guild Transfer to Kil'Jaeden-US (Horde)
   - Wicari-hold
-- Cosmic Vomit - Guild Transfer to Kil'Jaeden-US
+- **Cosmic Vomit** - Guild Transfer to Kil'Jaeden-US
   - Wicari-hold
 
 ## World of Warcraft - Warlords of Draenor - 2015
 - Server Kil'Jaeden-US (Horde)
 #### Guilds
-- Habitual 
+- **Habitual**
   - Wicari-hold
-- Reckconing - World PVP Guild
+- **Reckconing** - World PVP Guild
   - Wicari
   - Daryin
 
 - Server Kil'Jaeden-US (Alliance)
-- Cosmic Vomit
+- **Cosmic Vomit**
   - Wicari-hold
 
 ## World of Warcraft - Warlords of Draenor - 2015
 - Server Earthen Ring-US (Horde)
 #### Guilds
-- Habitual - Guild Transfer to Earthen Ring-US (Horde)
+- **Habitual** - Guild Transfer to Earthen Ring-US (Horde)
   - Wicari-hold
-- Cosmic Vomit - Guild Transfer to Earthen Ring-US (Horde)
+- **Cosmic Vomit** - Guild Transfer to Earthen Ring-US (Horde)
   - Wicari-hold
-- AIE - Earthin Ring-US (Horde)
+- **AIE** - Earthin Ring-US (Horde)
   - Wicari
   - Froggie
   - Tenshu
@@ -201,14 +201,14 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - Legion - 2016
 - Server Earthen Ring-US (Horde)
 #### Guilds
-- Habitual
-- AIE - Horde (Earthen Ring)
+- **Habitual**
+- **AIE** - Horde (Earthen Ring)
   - Wicari
   - Cylla
-- Cosmic Vomit - Alliance (Dalaran)
+- **Cosmic Vomit** - Alliance (Dalaran)
   - Wicari
   - Dariellwine
-- Eclipse
+- **Eclipse**
   - Froggie
   - Katrinah
   - Tenshu
@@ -216,14 +216,14 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - Battle for Azoroth - 2018
 - Server Earthen Ring-US (Horde)
 #### Guilds
-- Habitual
-- AIE - Horde
+- **Habitual**
+- **AIE** - Horde
   - Wicari Alts
   - Cylla
-- Cosmic Vomit - Alliance
+- **Cosmic Vomit** - Alliance
   - Wicari
   - Dariellwine
-- Highly Illogical - Horde
+- **Highly Illogical** - Horde
   - Froggie
   - Katrinah
   - Tenshu
@@ -231,7 +231,7 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - Classic 
 - Server: Kromcrush-US
 #### Guilds
-- Cosmic Vomit
+- **Cosmic Vomit**
   - Bhorris (Wicari)
   - Nahtasha  (Dariellwine)
   - Xirek
@@ -243,7 +243,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Gomer
   - Rusty
 
-- Habitual??
+- **Habitual??**
   - Bhorris (Wicari)
   - Nahtasha  (Dariellwine)
   - Xirek
@@ -255,7 +255,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Gomer
   - Rusty
 
-- Impulse
+- **Impulse**
   - Bhorris (Wicari)
   - Nahtasha  (Dariellwine)
   - Xirek
@@ -270,8 +270,8 @@ The idea behind this is to build a chronological picture of how we all came toge
 ## World of Warcraft - Shadowlands - 2020
 - Server: Eitrigg-US (Alliance)
 #### Guilds
-- Cosmic Vomit (2020) - Transfer From Dalaran 
-- Knights of the Realm (2020)
+- **Cosmic Vomit** (2020) - Transfer From Dalaran 
+- **Knights of the Realm** (2020)
   - Belac
   - Distayne
   - Dust
@@ -291,7 +291,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Juliana
   - Reisling
 
-- Cosmic Vomit (2021)
+- **Cosmic Vomit** (2021)
   - Distayne
   - Dust
   - Deathhimself
