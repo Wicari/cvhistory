@@ -86,51 +86,81 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Nilrum
   - Nurse
   - Delphi
-	Vorroths Guild - Habitual Somewhat fell apart post Zik and Wic stepping away. Many members reformed with Vorroth's guild
-		Vorroth, Nurse, Nilrum, Delphi, Jannassa
+- Vorroths Guild - Habitual Somewhat fell apart post Zik and Wic stepping away. Many members reformed with Vorroth's guild
+   - Vorroth, Nurse, Nilrum, Delphi, Jannassa
 
-### World of Warcraft - Wrath of the Lich King - 2008
-	Wicari - stopped playing WoW (17 Months) - Burn Out
+## World of Warcraft - Wrath of the Lich King - 2008
+#### Guilds 
+- Habitual 
+  - Wicari - stopped playing WoW (17 Months) - Burn Out
 
-### Age of Connan - 2008
-		Buto
-		Wicari
-		Hitu
-		Xirek
+## Age of Connan - 2008
+#### Guilds 
+- ???? 
+  - Buto
+  - Wicari
+  - Hitu
+  - Xirek
 
-### Aion - 2009
-		Wiciari
-		Buto
-		Hitu
-		Xirek
+## Aion - 2009
+#### Guilds
+- ????
+  - Wiciari
+  - Buto
+  - Hitu
+  - Xirek
 	
-### Warhammer Online: Age of Reckoning - 2009
-		Wicari
-		Hitu
-		Xirek
-		Daryin
+## Warhammer Online: Age of Reckoning - 2009
+- Server: ????
+#### Guilds 
+- ????
+  - Wicari
+  - Hitu
+  - Xirek
+  - Daryin
+  - TC
+  - Kruez
 		
-### World of Warcraft - Wrath of the Lich King - 2009 (late)
-        Wicari - returned to play WoW-WotLK (last patch)
+## World of Warcraft - Wrath of the Lich King - 2009 (late)
+- Server: Arygos-US (Alliance)
+#### Guilds 
+- Habitual 
+  - Wicari - returned to play WoW-WotLK (last patch)
 
 ### World of Warcraft - Cataclysm - 2010
-        Wicari - restarted Habitual
-	Habitual - Arygos-US (Alliance)
-		Wicari
-		Eildy
-		Froggie
-		Katrinah
-		Tenshu (Zushiba)
-		Gomer
-		Rusty
-		Strider
-		Buto
+- Server: Arygos-US (Alliance)
+#### Guilds 
+- Habitual
+  - Wicari - restarted Habitual
+  - Eildy
+  - Froggie
+  - Katrinah
+  - Tenshu (Zushiba)
+  - Gomer
+  - Rusty
+  - Strider
+  - Buto
 
 ### World of Warcraft - Mists of Pandaria - 2012
-	Habitual - Arygos-US (Alliance)
-        Habitual - Fell Appart
-        Cosmic Vomit - Arygos-US (Alliance) Susan Created
-
+- Server: Arygos-US (Alliance)
+#### Guilds 
+- Habitual
+  - Wicari
+  - Eildy
+  - Froggie
+  - Katrinah
+  - Tenshu (Zushiba)
+  - Gomer
+  - Rusty
+  - Strider
+  - Buto
+  - Treefosteel
+- Habitual - Fell Appart after losing key roles 
+- Cosmic Vomit 
+  - Geena (aka Eildy)
+    - Geena family members
+  - Wicari
+  
 ### World of Warcraft - Warlords of Draenor - 2014
 	Habitual - Guild Transfer to Kil'Jaeden-US (Horde)
         Cosmic Vomit - Guild Transfer to Kil'Jaeden-US (Horde)
