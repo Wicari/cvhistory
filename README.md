@@ -243,7 +243,7 @@ The idea behind this is to build a chronological picture of how we all came toge
   - Gomer
   - Rusty
 
-- **Habitual??**
+- **Eternal Havoc**
   - Bhorris (Wicari)
   - Nahtasha  (Dariellwine)
   - Xirek
